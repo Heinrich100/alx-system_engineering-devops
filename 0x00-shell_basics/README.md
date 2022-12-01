@@ -7,3 +7,4 @@
 # 6. Welcome
 # 7. Betty in my first directory
 # 8. Bye bye betty
+# 9. Bye bye My first directory
